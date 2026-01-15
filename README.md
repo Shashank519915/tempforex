@@ -123,8 +123,7 @@ A multi-layered approach to revenue, moving from ad-supported to premium subscri
 *   **Right Sidebar Prime Slot:** High-visibility 300x250 ad unit fixed on the dashboard. Ideal for Brokerages (Zerodha, Groww, Exness) or Trading Tools.
 *   **Native Feed Ads:** Sponsored threads pinned to the top of the "Community Discussions" list.
 
-> <img width="598" height="407" alt="image" src="https://github.com/user-attachments/assets/5e74e2fb-60bc-4fb5-91ff-e0fbdca3e393" />
-> <img width="631" height="1176" alt="image" src="https://github.com/user-attachments/assets/5de0193f-6617-4e6a-b23e-a37e827c7bac" />
+> <img width="598" height="407" alt="image" src="https://github.com/user-attachments/assets/5e74e2fb-60bc-4fb5-91ff-e0fbdca3e393" /> <img width="631" height="1176" alt="image" src="https://github.com/user-attachments/assets/5de0193f-6617-4e6a-b23e-a37e827c7bac" />
 
 
 ### **Tier 2: Premium Subscriptions (High Margin)**
