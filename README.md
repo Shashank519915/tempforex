@@ -31,6 +31,7 @@ The Dashboard is the first screen users see. It is engineered for "Zero-Click La
 *   **Visuals:** Color-coded heatmaps and sparklines for instant trend recognition.
 
 > <img width="532" height="659" alt="image" src="https://github.com/user-attachments/assets/dff97728-49db-4d46-b432-331471258437" />
+> <img width="1654" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2a0fb8b-36d3-4979-9e88-e2db1aa791b4" />
 
 
 #### **B. Market Wire (News Feed)**
