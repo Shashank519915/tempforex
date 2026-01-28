@@ -1,5 +1,7 @@
 # IndiaForex Market Institutional Terminal - Product Showcase & Strategic Overview
 
+# Visit the Deployment at https://indiaforex.vercel.app/
+
 **Version:** 1.0 (Draft)  
 **Date:** January 2026  
 **Confidentiality:** Internal Draft for Buyer Review
